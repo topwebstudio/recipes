@@ -1,1 +1,1 @@
-<bg=blue;fg=white> sitebuilder-comments installed from custom recipe </>
+<bg=blue;fg=white> sitebuilder-comments installed from custom recipe master</>
