@@ -1,0 +1,11 @@
+{
+    "bundles": {
+        "Topwebstudio\\CommentsBundle\\TopwebstudioCommentsBundle": ["all"]
+    },
+    "copy-from-package": {
+        "assets/": "%ASSETS_DIR%/"
+    },
+    "composer-scripts": {
+        "app:install-npm simple-timer-js": "symfony-cmd"
+    }
+}

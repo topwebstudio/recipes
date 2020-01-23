@@ -1,0 +1,8 @@
+entity_extend:
+    extended_entities:
+        App\Entity\User: Topwebstudio\CommentsBundle\Entity\User
+
+doctrine:
+    orm:
+        mappings:
+            TopwebstudioCommentsBundle: 
