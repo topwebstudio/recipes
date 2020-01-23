@@ -6,6 +6,6 @@
         "assets/": "%ASSETS_DIR%/"
     },
     "composer-scripts": {
-        "app:install-npm simple-timer-js": "symfony-cmd"
+        "app:install-npm tiny-timer": "symfony-cmd"
     }
 }
